@@ -1,5 +1,5 @@
-# full_stack_auth_sample
+# Sample idealogy of data transfer from frontend to backend  
 
-A small application which demonastrate the how the data trasfer from the frontend to backend,
+A application which demonastrate the how the data trasfer from the frontend to backend,
 
 In this app, simple login page in frontend whenever user enter the creditials, it will logged the user data in server console.  
